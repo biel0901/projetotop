@@ -1,6 +1,7 @@
-nav{background-color: blueviolet;}
+
 nav{height: 300px;
 width: 400px;
 margin-left: auto;
 margin-right: auto;
-color: white;}
+color: white;
+background-color: blueviolet;}
